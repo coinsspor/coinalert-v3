@@ -1,0 +1,143 @@
+C:\Users\x10009\Documents\Visual Studio 2017\Projects\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\x10009\Documents\Visual Studio 2017\Projects\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\x10009\Documents\Visual Studio 2017\Projects\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\x10009\Documents\Visual Studio 2017\Projects\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+C:\Users\x10009\Documents\Visual Studio 2017\Projects\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\x10009\Documents\Visual Studio 2017\Projects\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\x10009\Documents\Visual Studio 2017\Projects\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\x10009\Documents\Visual Studio 2017\Projects\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\x10009\Documents\Visual Studio 2017\Projects\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\x10009\Documents\Visual Studio 2017\Projects\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+F:\fatih hoca\egitim\COINALERTv\COINALERT\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+F:\fatih hoca\egitim\COINALERTv\COINALERT\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+F:\fatih hoca\egitim\COINALERTv\COINALERT\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+F:\fatih hoca\egitim\COINALERTv\COINALERT\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+F:\fatih hoca\egitim\COINALERTv\COINALERT\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+F:\fatih hoca\egitim\COINALERTv\COINALERT\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+F:\fatih hoca\egitim\COINALERTv\COINALERT\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+F:\fatih hoca\egitim\COINALERTv\COINALERT\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+F:\fatih hoca\egitim\COINALERTv\COINALERT\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.Cache
+C:\Users\BILWEB\Desktop\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\BILWEB\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\BILWEB\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\BILWEB\Desktop\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\BILWEB\Desktop\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\BILWEB\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+C:\Users\BILWEB\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\BILWEB\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\BILWEB\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.Cache
+C:\coınalertsonv2\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\coınalertsonv2\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\coınalertsonv2\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+C:\coınalertsonv2\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\coınalertsonv2\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\coınalertsonv2\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\coınalertsonv2\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\coınalertsonv2\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\coınalertsonv2\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\coınalertsonv2\WindowsFormsApp8\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\BILWEB\Desktop\coin alert cıft tıkla\coin alert cıft tıkla\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\BILWEB\Desktop\coin alert cıft tıkla\coin alert cıft tıkla\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\BILWEB\Desktop\coin alert cıft tıkla\coin alert cıft tıkla\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\BILWEB\Desktop\coin alert cıft tıkla\coin alert cıft tıkla\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\BILWEB\Desktop\coin alert cıft tıkla\coin alert cıft tıkla\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\BILWEB\Desktop\coin alert cıft tıkla\coin alert cıft tıkla\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+C:\Users\BILWEB\Desktop\coin alert cıft tıkla\coin alert cıft tıkla\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\BILWEB\Desktop\coin alert cıft tıkla\coin alert cıft tıkla\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\BILWEB\Desktop\coin alert cıft tıkla\coin alert cıft tıkla\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.Cache
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\golden crosslu\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\golden crosslu\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\golden crosslu\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\golden crosslu\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\golden crosslu\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\golden crosslu\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\golden crosslu\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\golden crosslu\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\golden crosslu\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\golden crosslu\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\golden crosslu\zaman fıxlendi golden cross guncellendı\bin\Debug\WindowsFormsApp8.exe.config
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\golden crosslu\zaman fıxlendi golden cross guncellendı\bin\Debug\WindowsFormsApp8.exe
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\golden crosslu\zaman fıxlendi golden cross guncellendı\bin\Debug\WindowsFormsApp8.pdb
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\golden crosslu\zaman fıxlendi golden cross guncellendı\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\golden crosslu\zaman fıxlendi golden cross guncellendı\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\golden crosslu\zaman fıxlendi golden cross guncellendı\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\golden crosslu\zaman fıxlendi golden cross guncellendı\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\golden crosslu\zaman fıxlendi golden cross guncellendı\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\golden crosslu\zaman fıxlendi golden cross guncellendı\obj\Debug\WindowsFormsApp8.exe
+C:\coınalertsonv2\mus\coin alert cıft tıkla\WindowsFormsApp8\golden crosslu\zaman fıxlendi golden cross guncellendı\obj\Debug\WindowsFormsApp8.pdb
+D:\coin alert cıft tıkla\zaman fıxlendi golden cross guncellendı\bin\Debug\WindowsFormsApp8.exe.config
+D:\coin alert cıft tıkla\zaman fıxlendi golden cross guncellendı\obj\Debug\WindowsFormsApp8.exe
+D:\coin alert cıft tıkla\zaman fıxlendi golden cross guncellendı\obj\Debug\WindowsFormsApp8.pdb
+D:\coin alert cıft tıkla\zaman fıxlendi golden cross guncellendı\bin\Debug\WindowsFormsApp8.exe
+D:\coin alert cıft tıkla\zaman fıxlendi golden cross guncellendı\bin\Debug\WindowsFormsApp8.pdb
+D:\coin alert cıft tıkla\zaman fıxlendi golden cross guncellendı\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+D:\coin alert cıft tıkla\zaman fıxlendi golden cross guncellendı\obj\Debug\WindowsFormsApp8.Form1.resources
+D:\coin alert cıft tıkla\zaman fıxlendi golden cross guncellendı\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+D:\coin alert cıft tıkla\zaman fıxlendi golden cross guncellendı\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.Cache
+F:\fatih hoca\egitim\zaman fıxlendi golden cross guncellendı\zaman fıxlendi golden cross guncellendı\bin\Debug\WindowsFormsApp8.exe.config
+F:\fatih hoca\egitim\zaman fıxlendi golden cross guncellendı\zaman fıxlendi golden cross guncellendı\obj\Debug\WindowsFormsApp8.exe
+F:\fatih hoca\egitim\zaman fıxlendi golden cross guncellendı\zaman fıxlendi golden cross guncellendı\obj\Debug\WindowsFormsApp8.pdb
+F:\fatih hoca\egitim\zaman fıxlendi golden cross guncellendı\zaman fıxlendi golden cross guncellendı\bin\Debug\WindowsFormsApp8.exe
+F:\fatih hoca\egitim\zaman fıxlendi golden cross guncellendı\zaman fıxlendi golden cross guncellendı\bin\Debug\WindowsFormsApp8.pdb
+F:\fatih hoca\egitim\zaman fıxlendi golden cross guncellendı\zaman fıxlendi golden cross guncellendı\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+F:\fatih hoca\egitim\zaman fıxlendi golden cross guncellendı\zaman fıxlendi golden cross guncellendı\obj\Debug\WindowsFormsApp8.Form1.resources
+F:\fatih hoca\egitim\zaman fıxlendi golden cross guncellendı\zaman fıxlendi golden cross guncellendı\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+F:\fatih hoca\egitim\zaman fıxlendi golden cross guncellendı\zaman fıxlendi golden cross guncellendı\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.Cache
+C:\Users\BILWEB\Desktop\zaman\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\BILWEB\Desktop\zaman\obj\Debug\WindowsFormsApp8.exe
+C:\Users\BILWEB\Desktop\zaman\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\BILWEB\Desktop\zaman\bin\Debug\WindowsFormsApp8.exe
+C:\Users\BILWEB\Desktop\zaman\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\BILWEB\Desktop\zaman\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+C:\Users\BILWEB\Desktop\zaman\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\BILWEB\Desktop\zaman\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\BILWEB\Desktop\zaman\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.Cache
+C:\coınalertsonv2\zaman\zaman\bin\Debug\WindowsFormsApp8.exe.config
+C:\coınalertsonv2\zaman\zaman\bin\Debug\WindowsFormsApp8.exe
+C:\coınalertsonv2\zaman\zaman\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+C:\coınalertsonv2\zaman\zaman\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\coınalertsonv2\zaman\zaman\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\coınalertsonv2\zaman\zaman\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\coınalertsonv2\zaman\zaman\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\coınalertsonv2\zaman\zaman\obj\Debug\WindowsFormsApp8.exe
+C:\coınalertsonv2\zaman\zaman\obj\Debug\WindowsFormsApp8.pdb
+C:\coınalertsonv2\zaman\zaman\bin\Debug\WindowsFormsApp8.pdb
+C:\coınalertsonv2\zaman\zaman - Kopya\bin\Debug\WindowsFormsApp8.exe.config
+C:\coınalertsonv2\zaman\zaman - Kopya\bin\Debug\WindowsFormsApp8.exe
+C:\coınalertsonv2\zaman\zaman - Kopya\bin\Debug\WindowsFormsApp8.pdb
+C:\coınalertsonv2\zaman\zaman - Kopya\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+C:\coınalertsonv2\zaman\zaman - Kopya\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\coınalertsonv2\zaman\zaman - Kopya\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\coınalertsonv2\zaman\zaman - Kopya\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\coınalertsonv2\zaman\zaman - Kopya\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\coınalertsonv2\zaman\zaman - Kopya\obj\Debug\WindowsFormsApp8.exe
+C:\coınalertsonv2\zaman\zaman - Kopya\obj\Debug\WindowsFormsApp8.pdb
+F:\fatih hoca\egitim\zaman - Kopya\zaman - Kopya\bin\Debug\WindowsFormsApp8.exe.config
+F:\fatih hoca\egitim\zaman - Kopya\zaman - Kopya\obj\Debug\WindowsFormsApp8.exe
+F:\fatih hoca\egitim\zaman - Kopya\zaman - Kopya\obj\Debug\WindowsFormsApp8.pdb
+F:\fatih hoca\egitim\zaman - Kopya\zaman - Kopya\bin\Debug\WindowsFormsApp8.exe
+F:\fatih hoca\egitim\zaman - Kopya\zaman - Kopya\bin\Debug\WindowsFormsApp8.pdb
+F:\fatih hoca\egitim\zaman - Kopya\zaman - Kopya\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+F:\fatih hoca\egitim\zaman - Kopya\zaman - Kopya\obj\Debug\WindowsFormsApp8.Form1.resources
+F:\fatih hoca\egitim\zaman - Kopya\zaman - Kopya\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+F:\fatih hoca\egitim\zaman - Kopya\zaman - Kopya\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.Cache
+C:\coınalertsonv2\COİNSSPORRRR\zaman - Kopya\bin\Debug\WindowsFormsApp8.exe.config
+C:\coınalertsonv2\COİNSSPORRRR\zaman - Kopya\bin\Debug\WindowsFormsApp8.exe
+C:\coınalertsonv2\COİNSSPORRRR\zaman - Kopya\bin\Debug\WindowsFormsApp8.pdb
+C:\coınalertsonv2\COİNSSPORRRR\zaman - Kopya\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+C:\coınalertsonv2\COİNSSPORRRR\zaman - Kopya\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\coınalertsonv2\COİNSSPORRRR\zaman - Kopya\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\coınalertsonv2\COİNSSPORRRR\zaman - Kopya\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\coınalertsonv2\COİNSSPORRRR\zaman - Kopya\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\coınalertsonv2\COİNSSPORRRR\zaman - Kopya\obj\Debug\WindowsFormsApp8.exe
+C:\coınalertsonv2\COİNSSPORRRR\zaman - Kopya\obj\Debug\WindowsFormsApp8.pdb
